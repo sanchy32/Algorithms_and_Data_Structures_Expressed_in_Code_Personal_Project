@@ -4,4 +4,5 @@ The aim is to write code that exemplify the algorithms and data structures in qu
 
 A table of contents will follow below:
 1.) Lists
-2.)
+2.) Arrays
+3.) 
